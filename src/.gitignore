@@ -1,0 +1,8 @@
+# Compiled output
+out/
+build/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
